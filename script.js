@@ -7,10 +7,9 @@ const commands = [
 ];
 
 const outputLines = [
-    '<span class="output-label">Name:</span>  Deepak Kumar Chauhan',
-    '<span class="output-label">Role:</span>  Cybersecurity Researcher',
-    '<span class="output-label">Focus:</span> VAPT | Exploit Dev | IoT Security',
-    '<span class="output-label">CVEs:</span>  CVE-2025-10035 (CVSS 10.0)',
+    '<span class="output-label">Name:</span>  Chaitanyasai Vanjarana',
+    '<span class="output-label">Role:</span>  Cybersecurity',
+    '<span class="output-label">Focus:</span> VAPT | Web Application Sec| API Sec',
     '<span class="output-label">Repos:</span> WEB-VAPT, python-keylogger-edu, +4 more',
     '<span class="output-label">Status:</span> <span style="color:var(--accent)">● Available for work</span>',
 ];
